@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+#score{
+	font-size: 27px;
+    display: flex;
+    justify-content: center;
+}
+
+#score_success{
+	padding: 0 10px 0 0;
+}
